@@ -1,6 +1,6 @@
 # Komputer_grafik_1
 # UAS 2023
-NYugo Aji Pamungkas
+Yugo Aji Pamungkas
 
 Berikut garis besar tahapan implementasi webnya:
 #Upload Gambar
